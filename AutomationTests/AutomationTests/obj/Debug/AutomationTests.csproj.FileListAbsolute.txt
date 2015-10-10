@@ -1,0 +1,1 @@
+c:\users\michael\documents\visual studio 2012\Projects\AutomationTests\AutomationTests\bin\Debug\AutomationTests.exe.config
